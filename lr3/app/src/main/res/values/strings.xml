@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LR3</string>
+    <string name="take_a_shot">Take a Shot!</string>
+    <string name="send_picture">Send Picture!</string>
+</resources>
